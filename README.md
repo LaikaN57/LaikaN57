@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LaikaN57
+- 👀 I’m interested in building cool things.
+- 🌱 I’m currently learning go and k8s.
+- 💞️ I’m looking to collaborate on cools things.
+- 📫 Reach me on IG, FB, email, etc. I'm LaikaN57 on almost all platforms.
